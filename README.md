@@ -7,20 +7,20 @@ As each member has been assigned to work on different model, I am only uploading
 
 Project Specifications:
 
-Select datasets from the followings
-• https://data.gov.sg/
-• https://archive.ics.uci.edu/ml/index.php
-• https://www.kaggle.com/datasets
-• The source dataset must contain a minimum of 300 rows of data
+Select datasets from the followings <br>
+• https://data.gov.sg/ <br>
+• https://archive.ics.uci.edu/ml/index.php <br>
+• https://www.kaggle.com/datasets <br>
+The source dataset must contain a minimum of 300 rows of data
 
 Develop machine learning models (total 3 sets of models)
 
 a) Classification techniques
 Choose three of the followings and do a comparison of the
-outcome:
-• Logistic Regression
-• K-NN Classification
-• Decision Trees
+outcome:<br>
+• Logistic Regression<br>
+• K-NN Classification<br>
+• Decision Trees<br>
 
 b) Perform data or feature engineering to evaluate the
 impact on the outcome
